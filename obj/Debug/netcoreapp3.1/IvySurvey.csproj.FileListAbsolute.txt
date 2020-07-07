@@ -1,0 +1,238 @@
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.StaticWebAssets.xml
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\app.db
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.exe
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.deps.json
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.runtimeconfig.json
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.runtimeconfig.dev.json
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.pdb
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.Views.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.Views.pdb
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.AssemblyInfo.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.TagHelpers.input.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.TagHelpers.output.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.Views.pdb
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.csproj.CopyComplete
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\staticwebassets\IvySurvey.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\staticwebassets\IvySurvey.StaticWebAssets.xml
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.dll
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.pdb
+C:\Users\USER\Desktop\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.genruntimeconfig.cache
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.StaticWebAssets.xml
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\app.db
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.exe
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.deps.json
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.pdb
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.Views.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\IvySurvey.Views.pdb
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.TagHelpers.input.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.TagHelpers.output.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.Views.pdb
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\staticwebassets\IvySurvey.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\staticwebassets\IvySurvey.StaticWebAssets.xml
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.pdb
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\IvySurvey.genruntimeconfig.cache
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Index.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\JWT.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\obj\Debug\netcoreapp3.1\Razor\Views\Auth\SigninwithGoogle.cshtml.g.cs
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Hellang.Authentication.JwtBearer.Google.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Desktop\New folder (2)\IvySurvey\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

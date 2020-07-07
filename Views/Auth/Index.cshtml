@@ -1,0 +1,9 @@
+<h1>Home Page</h1>
+
+<Button class="btn btn-primary" onclick="AuthUser()">SignIn with google</Button>
+<script>
+    function AuthUser()
+    {
+        window.location.href ="https://accounts.google.com/o/oauth2/auth?response_type=id_token&redirect_uri=https://localhost:5001/Auth/Authenticate&scope=openid%20profile%20email&client_id=782740102672-mfc1do9oq50mpedecc92fmiu981ks69n.apps.googleusercontent.com"
+    }
+</script>
