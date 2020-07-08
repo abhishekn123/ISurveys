@@ -22,6 +22,8 @@ namespace IvySurvey.Data
         public DbSet<SurveyMapping> SurveyMappings{get;set;}
 
         public DbSet<SurveyMaster> SurveyMasters{get;set;}
+
+        public DbSet<ResponseMaster> ResponseMasters{get;set;}
         
     }
 }

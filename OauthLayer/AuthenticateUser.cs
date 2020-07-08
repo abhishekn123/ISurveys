@@ -98,7 +98,7 @@ namespace IvySurvey.OauthLayer
             var claims = new[]
           {
               new Claim(JwtRegisteredClaimNames.Sub,"some_id"),
-              new Claim(Email,"ADMIN")
+              new Claim(ClaimTypes.Role,"Associate"),
           };
             var secretbyte = Encoding.UTF8.GetBytes("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
             var key = new SymmetricSecurityKey(secretbyte);

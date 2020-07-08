@@ -7,8 +7,7 @@ namespace IvySurvey.Models
     {
         [ForeignKey("Id")]
         public QuestionMaster QuestionMastersurvey { get; set; }
-
-        [Key]
+        
         [Required]
         [Display(Name="SurveyId")]
         public int Id { get; set; }

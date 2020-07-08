@@ -19,7 +19,7 @@ namespace IvySurvey.Controllers
             this.surveyCreator=new SurveyCreator(context);
         }
         [HttpPost]
-        [Authorize]
+        [Authorize(Roles="Admin")]
         public ActionResult CreateSurvey([FromBody] SurveyMaster Master)
         {
             var SurveyId=0;
