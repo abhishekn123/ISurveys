@@ -81,6 +81,7 @@ namespace IvySurvey.OauthLayer
         }
         public async Task<string> SignInTheUser(IdentityUser user)
         {
+              
             try
             {
                 await SignInManager.SignInAsync(user, true);
@@ -98,7 +99,8 @@ namespace IvySurvey.OauthLayer
             var claims = new[]
           {
               new Claim(JwtRegisteredClaimNames.Sub,"some_id"),
-              new Claim(ClaimTypes.Role,"Associate"),
+              new Claim(ClaimTypes.Role,"Admin"),
+              new Claim("Email",Email)
           };
             var secretbyte = Encoding.UTF8.GetBytes("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
             var key = new SymmetricSecurityKey(secretbyte);
@@ -108,7 +110,7 @@ namespace IvySurvey.OauthLayer
                 "https://localhost:5001",
                 "https://localhost:5001",
                 claims, notBefore: DateTime.Now,
-                expires: DateTime.Now.AddDays(1),
+                expires: DateTime.Now.AddHours(4),
                 sigincred);
             var tokenJson = new JwtSecurityTokenHandler().WriteToken(token);
             return tokenJson;

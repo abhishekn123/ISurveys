@@ -43,6 +43,7 @@ namespace IvySurvey.Controllers
             
         // }
        [HttpPost]
+       [AllowAnonymous]
        public async Task<ActionResult> Authenticate([FromBody]GoogleRequest request)
       {
           try{
@@ -56,8 +57,7 @@ namespace IvySurvey.Controllers
           catch(Exception e)
           {
            return BadRequest(e);
-          }
-       ;
+          };
          }
     }
 }

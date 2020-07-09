@@ -50,6 +50,8 @@ namespace IvySurvey
                        ValidateIssuer=true,
                        ValidIssuer="https://localhost:5001",
                        ValidAudience="https://localhost:5001",
+                       ValidateLifetime=true,
+                       RequireExpirationTime=true,
                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
                     };
                 }); 

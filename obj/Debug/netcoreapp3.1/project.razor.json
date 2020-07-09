@@ -20571,6 +20571,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\USER\\Desktop\\New folder (2)\\IvySurvey\\Views\\Admin\\AdminScreen.cshtml",
+      "TargetPath": "Views\\Admin\\AdminScreen.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\USER\\Desktop\\New folder (2)\\IvySurvey\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
